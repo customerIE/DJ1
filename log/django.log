@@ -1,0 +1,43 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 152
+"GET /randomizer/cube/ HTTP/1.1" 200 133
+"GET /randomizer/number/ HTTP/1.1" 200 129
+"GET /randomizer/coin/ HTTP/1.1" 200 133
+Watching for file changes with StatReloader
+"GET /randomizer/coin/ HTTP/1.1" 200 133
+"GET /randomizer/coin/ HTTP/1.1" 200 133
+"GET /randomizer/coin/ HTTP/1.1" 200 131
+"GET /randomizer/coin/ HTTP/1.1" 200 131
+"GET /randomizer/number/ HTTP/1.1" 200 128
+"GET /randomizer/number/ HTTP/1.1" 200 129
+"GET /randomizer/number/ HTTP/1.1" 200 129
+"GET /randomizer/number/ HTTP/1.1" 200 129
+"GET /randomizer/number/ HTTP/1.1" 200 129
+"GET /randomizer/cube/ HTTP/1.1" 200 133
+"GET /randomizer/cube/ HTTP/1.1" 200 133
+"GET /randomizer/cube/ HTTP/1.1" 200 133
+"GET /randomizer/cube/ HTTP/1.1" 200 133
+Watching for file changes with StatReloader
+"GET /randomizer/cube/ HTTP/1.1" 200 133
+"GET /randomizer/cube/ HTTP/1.1" 200 133
+Watching for file changes with StatReloader
+"GET /randomizer/cube/ HTTP/1.1" 200 133
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3997
+"GET / HTTP/1.1" 200 4017
+"GET / HTTP/1.1" 200 4017
+Not Found: /about
+"GET /about HTTP/1.1" 404 2534
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 1132
+"GET /about/ HTTP/1.1" 200 1132
+"GET / HTTP/1.1" 200 1250
+"GET /about/ HTTP/1.1" 200 211
+"GET /about/ HTTP/1.1" 200 211
+"GET /about/ HTTP/1.1" 200 1382
+"GET /about/ HTTP/1.1" 200 1382
+"GET /about/ HTTP/1.1" 200 2300
+"GET /about/ HTTP/1.1" 200 2300
+"GET /about/ HTTP/1.1" 500 76106
+"GET /about/ HTTP/1.1" 200 1141
+"GET /about/ HTTP/1.1" 200 1141
